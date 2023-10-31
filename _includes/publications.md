@@ -38,8 +38,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2306.06534">Principal and Self-Consistent Positive Semi-Defnite Manifolds</a></div>
     <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Aug. 2023.</em></div>
-  </div>
-</div>
+
 </li> 
 
 
@@ -50,6 +49,12 @@
     <div class="title"><a href="https://arxiv.org/abs/2306.06534">Principal and Self-Consistent Positive Semi-Defnite Manifolds</a></div>
     <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Aug. 2023.</em></div>
-  </div>
-</div>
+
 </li> 
+
+
+  
+<br>
+
+</ol>
+</div> 
