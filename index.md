@@ -6,7 +6,7 @@ layout: homepage
 
 I’m a <a href="https://www.shsmu.edu.cn/english/info/1085/1233.htm" target="_blank"> Surgery</a> Ph.D. candidate at <a href="https://www.sjtu.edu.cn/" target="_blank"> <a href="http://www.rjh.com.cn/" target="_blank"> Ruijin Hospital</a>, Shanghai Jiao Tong University School of Medicine</a>, working under the mentorship of Prof.<a href="https://www.shsmu.edu.cn/english/info/1354/4143.htm" target="_blank"> Baiyong SHEN</a>. My research involves exploring the mechanism of the development of pancreatic cancer based on multi-omics.
 
-Prior to joining the Ph.D. program, I completed my master’s degree in Surgery from <a href="https://www.xy3yy.com" target="_blank">Third Xiangya Hospital, Central South University </a> advised by Prof. <a href="https://loop.frontiersin.org/people/1213961/overview" target="_blank"> Xiao Yu</a>, and my bachelor’s degree in Clinical Medicine from <a href="https://www.hnucm.edu.cn/" target="_blank"> Hunan University of Chinese Medicine</a>
+Prior to joining the Ph.D. program, I completed my master’s degree in Surgery from <a href="https://www.xy3yy.com" target="_blank">Third Xiangya Hospital, Central South University </a> advised by Prof. <a href="https://loop.frontiersin.org/people/1213961/overview" target="_blank"> Xiao Yu</a>, and my bachelor’s degree in Clinical Medicine from <a href="https://www.hnucm.edu.cn/" target="_blank"> Hunan University of Chinese Medicine</a>.
 
 Outside of academia,  I’m also passionate about singing and took part in the Top Ten Singers competition in our school. In addition, I am also interested in oil painting, and aeromodelling.
 
