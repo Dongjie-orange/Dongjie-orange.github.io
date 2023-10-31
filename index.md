@@ -25,9 +25,6 @@ Outside of academia,  I’m also passionate about singing and took part in the T
 - **[2019,2021,2023]** *First Prize Academic Scholarship* of Central South University & Shanghai Jiao Tong University
 
 
-
-<!-- {% include_relative _includes/projects.md %}-->
-
 {% include_relative _includes/publications.md %} 
 
 {% include_relative _includes/services.md %}
