@@ -19,10 +19,10 @@ Outside of academia,  I’m also passionate about singing and took part in the T
 
 
 ## Awards
-- **[2019]** *National Scholarship*</a> of Central South University
-- **[2019]** *Outstanding Student*</a> of Central South University
-- **[2022]** *Outstanding Graduate*</a> of Central South University
-- **[2019,2021,2023]** *First Prize Academic Scholarship*</a> of Central South University & Shanghai Jiao Tong University
+- **[2019]** *National Scholarship* of Central South University
+- **[2019]** *Outstanding Student* of Central South University
+- **[2022]** *Outstanding Graduate* of Central South University
+- **[2019,2021,2023]** *First Prize Academic Scholarship* of Central South University & Shanghai Jiao Tong University
 
 
 
