@@ -17,8 +17,8 @@
     <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2023.</em></div>
     <div class="links">
-
-
+    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+    </div>
   </div>
 </div>
 </li>
@@ -38,8 +38,8 @@
     <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2023.</em></div>
     <div class="links">
-
-
+    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+    </div>
   </div>
 </div>
 </li>
