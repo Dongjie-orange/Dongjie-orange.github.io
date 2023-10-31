@@ -77,7 +77,12 @@
     <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
 
 
+
+</li>
   
 <br>
+
+</ol>
+</div>
 
 
