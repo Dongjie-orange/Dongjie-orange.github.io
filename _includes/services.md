@@ -7,18 +7,31 @@
   <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
+<h4 style="margin:0 10px 0;">Journal Young Editorial Board</h4>
+
+<ul style="margin:0 0 20px;">
+
+  
+  <li><a href="https://onlinelibrary.wiley.com/journal/2770596x" target="_blank"> iMeta </a></li>
+
+</ul>
+
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.frontiersin.org" target="_blank"> Frontiers in Surgery </a></li>
-  <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
+
+  
+  <li><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank"> Expert Systems With Applications </a></li>
+  <li><a href="https://www.sciencedirect.com/journal/genes-and-diseases" target="_blank"> Genes & Diseases </a></li>
+  <li><a href="https://www.frontiersin.org/journals/immunology" target="_blank"> Frontiers in Immunology </a></li>
+  <li><a href="https://journals.sagepub.com/home/ebm" target="_blank"> Experimental Biology and Medicine </a></li>
+  
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.amstat.org/" target="_blank"> American Statistical Association </a></li>
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.biometricsociety.org/home" target="_blank"> International Biometric Society </a></li>
-  <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li>
+  <li><strong>[2022-present]</strong> Member of the <a href="http://www.caca.org.cn/" target="_blank"> Pancreatic Cancer Professional Committee of Chinese Anti-Cancer Association </a></li>
+
 </ul>
