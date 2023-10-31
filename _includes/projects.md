@@ -42,7 +42,7 @@
     <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2023.</em></div>
 
-  
+  </div>
 </div>
 </li>
   
