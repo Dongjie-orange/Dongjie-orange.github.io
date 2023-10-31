@@ -31,9 +31,7 @@ Outside of academia,  I’m also passionate about singing and took part in the T
 
 {% include_relative _includes/projects.md %}
 
-
 {% include_relative _includes/services.md %}
-
 
 ## Useful Resources
 
