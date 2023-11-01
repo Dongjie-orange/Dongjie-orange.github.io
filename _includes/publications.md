@@ -17,8 +17,8 @@
     <div class="author"><strong>Chen D</strong>, Cao Y, Tang H, Zang L, Yao N, Zhu Y, et al.</div>
     <div class="periodical"><em><strong>Theranostics</strong>, 2023.</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/37351165/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Comprehensive+machine+learning-generated+classifier+identifies+pro-metastatic+characteristics+and+predicts+individual+treatment+in+pancreatic+cancer%3A+A+multicenter+cohort+study+based+on+super-enhancer+profiling.&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
     </div>
   </div>
 </div>
