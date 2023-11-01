@@ -6,7 +6,8 @@ layout: homepage
 
 I’m a Ph.D. candidate of  <a href="https://www.shsmu.edu.cn/english/info/1085/1233.htm" target="_blank"> Surgery</a> in <a href="https://www.sjtu.edu.cn/" target="_blank"> <a href="http://www.rjh.com.cn/" target="_blank"> Ruijin Hospital</a>, <a href="https://www.shsmu.edu.cn/english/" target="_blank"> Shanghai Jiao Tong University School of Medicine</a>, working under the mentorship of Prof.<a href="https://www.shsmu.edu.cn/english/info/1354/4143.htm" target="_blank"> Baiyong SHEN</a>. My research involves exploring the mechanism of the development of pancreatic cancer based on multi-omics.
 
-Prior to joining the Ph.D. program, I completed my master’s degree in Surgery from <a href="https://www.xy3yy.com" target="_blank">Third Xiangya Hospital, Central South University </a> advised by Prof. <a href="https://loop.frontiersin.org/people/1213961/overview" target="_blank"> Xiao YU</a>.
+Prior to joining the Ph.D. program, I completed my master’s degree in Surgery from <a href="https://www.xy3yy.com" target="_blank">Third Xiangya Hospital, Central South University </a> advised by Prof. <a href="https://loop.frontiersin.org/people/1213961/overview" target="_blank"> Xiao YU</a>. When I was a first-year postgraduate, I generated a serious interest in bioinformatics which is based on machine learning and mixed algorithms. Owing to my diligence and persistence, I am proficient in R/Python/Shell for high-throughput sequencing analysis, CRISPR functional gene screening, tumor immune model, and single-cell multi-omics analysis. What’s more, I have participated in the <a href="https://www.nsfc.gov.cn/" target="_blank">National Natural Science Foundation of China</a>, <a href="https://kjt.hunan.gov.cn/kjt/index.html" target="_blank">Hunan Natural Science Foundation</a>, and other scientific research projects. So far, I have published <a href="https://www.researchgate.net/profile/Dongjie-Chen-10" target="_blank">five SCI papers</a> as the co-first author, and the total impact factor of the papers was over 30.
+
 
 <!-- and my bachelor’s degree in Clinical Medicine from <a href="https://www.hnucm.edu.cn/" target="_blank"> Hunan University of Chinese Medicine</a>. -->
 
@@ -14,8 +15,8 @@ Outside of academia,  I’m also passionate about singing and took part in the T
 
 
 ## Research Interests
-- **Multi-omics:** transcriptomics, proteomics and metabonomics
-- **Single-cell & Spatial transcriptome:** cell-cell communication, and deconvnetion analysis
+- **Multi-omics:** transcriptomics, proteomics, and metabonomics
+- **Single-cell & Spatial transcriptome:** cell-cell communication, and deconvention analysis
 - **Tumor microenvironment:** immune scape, and immunotherapy
 - **Machine Learning:** AI, penalization and augmentation methods
 
