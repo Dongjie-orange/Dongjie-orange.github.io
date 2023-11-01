@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534"> Comprehensive machine learning-generated classifier identifies pro-metastatic characteristics and predicts individual treatment in pancreatic cancer: A multicenter cohort study based on super-enhancer profiling</a></div>
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/37351165/"> Comprehensive machine learning-generated classifier identifies pro-metastatic characteristics and predicts individual treatment in pancreatic cancer: A multicenter cohort study based on super-enhancer profiling</a></div>
     <div class="author"><strong>Chen D</strong>, Cao Y, Tang H, Zang L, Yao N, Zhu Y, et al.</div>
     <div class="periodical"><em><strong>Theranostics</strong>, 2023.</em></div>
     <div class="links">
@@ -34,9 +34,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">Integrated Machine Learning and Bioinformatic Analyses Constructed a Novel Stemness-Related Classifier to Predict Prognosis and Immunotherapy Responses for Hepatocellular Carcinoma Patients.</a></div>
-    <div class="author"><strong>Chen D</strong>, Liu J, Zang L, Xiao T, Zhang X, Li Z, et al. I</div>
-    <div class="periodical"><em><strong>Int J Biol Sci</strong>, 2022.</em></div>
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/34975338/">Integrated Machine Learning and Bioinformatic Analyses Constructed a Novel Stemness-Related Classifier to Predict Prognosis and Immunotherapy Responses for Hepatocellular Carcinoma Patients</a></div>
+    <div class="author"><strong>Chen D</strong>, Liu J, Zang L, Xiao T, Zhang X, Li Z, et al. </div>
+    <div class="periodical"><em><strong>Int J Biol Sci.</strong>, 2022.</em></div>
     <div class="links">
     <a href="https://pubmed.ncbi.nlm.nih.gov/34975338/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
     <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Integrated+Machine+Learning+and+Bioinformatic+Analyses+Constructed+a+Novel+Stemness-Related+Classifier+to+Predict+Prognosis+and+Immunotherapy+Responses+for+Hepatocellular+Carcinoma+Patients.&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
@@ -54,12 +54,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em><strong>Theranostics</strong>, 2023.</em></div>
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/34691034/">Development and Verification of the Hypoxia- and Immune-Associated Prognostic Signature for Pancreatic Ductal Adenocarcinoma</a></div>
+    <div class="author"><strong>Chen D</strong>, Huang H, Zang L, Gao W, Zhu H, Yu X.</div>
+    <div class="periodical"><em><strong>Front Immunol.</strong>, 2021.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/34691034/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Development+and+Verification+of+the+Hypoxia-+and+Immune-Associated+Prognostic+Signature+for+Pancreatic+Ductal+Adenocarcinoma&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
     </div>
   </div>
 </div>
@@ -74,12 +74,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em><strong>Theranostics</strong>, 2023.</em></div>
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/35223846/">Ferroptosis-Related IncRNAs Are Prognostic Biomarker of Overall Survival in Pancreatic Cancer Patients</a></div>
+    <div class="author"><strong>Chen D</strong>, Gao W, Zang L, Zhang X, Li Z, Zhu H, et al.</div>
+    <div class="periodical"><em><strong>Front Cell Dev Biol.</strong>, 2022.</em></div>
     <div class="links">
-       <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+       <a href="https://pubmed.ncbi.nlm.nih.gov/35223846/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ferroptosis-Related+IncRNAs+Are+Prognostic+Biomarker+of+Overall+Survival+in+Pancreatic+Cancer+Patients&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
     </div>
   </div>
 </div>
@@ -94,12 +94,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em><strong>Theranostics</strong>, 2023.</em></div>
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/36601127/">Interplay of four types of RNA modification writers revealed distinct tumor microenvironment and biological characteristics in pancreatic cancer</a></div>
+    <div class="author">Gao W*, <strong>Chen D*</strong>, Liu J, Zang L, Xiao T, Zhang X, et al.</div>
+    <div class="periodical"><em><strong>Front Immunol.</strong>, 2022.</em></div>
     <div class="links">
-       <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+       <a href="https://pubmed.ncbi.nlm.nih.gov/36601127/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Interplay+of+four+types+of+RNA+modification+writers+revealed+distinct+tumor+microenvironment+and+biological+characteristics+in+pancreatic+cancer.&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
     </div>
   </div>
 </div>
