@@ -26,6 +26,7 @@ Outside of academia,  I’m also passionate about singing and took part in the T
 - **[2019]** *Outstanding Student* of Central South University
 - **[2022]** *Outstanding Graduate* of Central South University
 - **[2019,2021,2023]** *First Prize Academic Scholarship* of Central South University & Shanghai Jiao Tong University
+- **[2023]** *Excellent Master's degree Thesis* of Hunan Province & Central South University 
 
 
 {% include_relative _includes/publications.md %} 
