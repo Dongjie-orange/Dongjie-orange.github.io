@@ -108,7 +108,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
     <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/36601127/">Interplay of four types of RNA modification writers revealed distinct tumor microenvironment and biological characteristics in pancreatic cancer</a></div>
-    <div class="author">Gao W*, <u><strong>Chen D</strong></u>, Liu J, Zang L, Xiao T, Zhang X, et al.</div>
+    <div class="author">Gao W*, <u><strong>Chen D</strong></u>*, Liu J, Zang L, Xiao T, Zhang X, et al.</div>
     <div class="periodical"><em><strong>Front Immunol.</strong>, 2022. <strong>(Q1, IF = 7.30)</strong></em></div>
     <div class="links">
        <a href="https://pubmed.ncbi.nlm.nih.gov/36601127/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
@@ -135,7 +135,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
     <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/38095640/">Machine learning algorithm integrates bulk and single-cell transcriptome sequencing to reveal immune-related personalized therapy prediction features for pancreatic cancer</a></div>
-    <div class="author">Zang L, Zhang B, Zhou Y, Zhang F, Tian X, Tian Z*, <u><strong>Chen D</strong></u>, Miao Q*.</div>
+    <div class="author">Zang L, Zhang B, Zhou Y, Zhang F, Tian X, Tian Z*, <u><strong>Chen D</strong></u>*, Miao Q*.</div>
     <div class="periodical"><em><strong>Aging (Albany NY)</strong>, 2023. <strong>(Q2, IF = 5.20)</strong></em></div>
     <div class="links">
        <a href="https://pubmed.ncbi.nlm.nih.gov/38095640/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
