@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
     <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/37351165/"> Comprehensive machine learning-generated classifier identifies pro-metastatic characteristics and predicts individual treatment in pancreatic cancer: A multicenter cohort study based on super-enhancer profiling</a></div>
-    <div class="author"><strong>Chen D</strong>, Cao Y, Tang H, Zang L, Yao N, Zhu Y, et al.</div>
+    <div class="author"><u><strong>Chen D</strong></u>, Cao Y, Tang H, Zang L, Yao N, Zhu Y, et al.</div>
     <div class="periodical"><em><strong>Theranostics</strong>, 2023. <strong>(Q1, IF = 12.40)</strong></em></div>
     <div class="links">
     <a href="https://pubmed.ncbi.nlm.nih.gov/37351165/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
