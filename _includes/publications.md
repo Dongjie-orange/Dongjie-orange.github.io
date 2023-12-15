@@ -119,6 +119,32 @@
 </li>
 
 
+
+
+<br>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <img src="assets/img/05.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/38095640/">Machine learning algorithm integrates bulk and single-cell transcriptome sequencing to reveal immune-related personalized therapy prediction features for pancreatic cancer</a></div>
+    <div class="author">Zang L, Zhang B, Zhou Y, Zhang F, Tian X, Tian Z*, <strong>Chen D*</strong>, Miao Q*.</div>
+    <div class="periodical"><em><strong>Aging (Albany NY)</strong>, 2023. <strong>(Q2, IF = 5.20)</strong></em></div>
+    <div class="links">
+       <a href="https://pubmed.ncbi.nlm.nih.gov/38095640/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Machine+learning+algorithm+integrates+bulk+and+single-cell+transcriptome+sequencing+to+reveal+immune-related+personalized+therapy+prediction+features+for+pancreatic+cancer&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+    </div>
+  </div>
+</div>
+</li>
+
 </ol>
 </div>
 
