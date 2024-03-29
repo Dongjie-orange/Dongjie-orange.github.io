@@ -145,6 +145,31 @@
 </div>
 </li>
 
-</ol>
+
+
+
+<br>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <img src="assets/img/05.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/38545193/">IGF2BP2-related modification patterns in pancreatic cancer: A machine learning-driven approach towards personalized treatment</a></div>
+    <div class="author"><u><strong>Chen D</strong></u>*, Zang L*, Zhou Y, Yang Y, Zhang X, Li Z, et al.</div>
+    <div class="periodical"><em><strong>Heliyon</strong>, 2024. <strong>(Q2, IF = 4)</strong></em></div>
+    <div class="links">
+       <a href="https://pubmed.ncbi.nlm.nih.gov/38545193/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+IGF2BP2-related+modification+patterns+in+pancreatic+cancer%3A+A+machine+learning-driven+approach+towards+personalized+treatment.&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+    </div>
+  </div>
 </div>
+</li>
+
 
