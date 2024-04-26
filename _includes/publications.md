@@ -35,6 +35,28 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/38664705/">Pan-cancer analysis implicates novel insights of lactate metabolism into immunotherapy response prediction and survival prognostication</a></div>
+    <div class="author"><u><strong>Chen D</strong></u>*, Liu P*, Lu X, Li J, Qi D, Zang L, et al. </div>
+    <div class="periodical"><em><strong>J Exp Clin Cancer Res.</strong>, 2024. <strong>(Q1, IF = 11.3)</strong></em></div>
+    <div class="links">
+    <a href="https://pubmed.ncbi.nlm.nih.gov/38664705/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://jeccr.biomedcentral.com/articles/10.1186/s13046-024-03042-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <img src="assets/img/02.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
     <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/34975338/">Integrated Machine Learning and Bioinformatic Analyses Constructed a Novel Stemness-Related Classifier to Predict Prognosis and Immunotherapy Responses for Hepatocellular Carcinoma Patients</a></div>
     <div class="author"><u><strong>Chen D</strong></u>*, Liu J*, Zang L, Xiao T, Zhang X, Li Z, et al. </div>
     <div class="periodical"><em><strong>Int J Biol Sci.</strong>, 2022. <strong>(Q1, IF = 10.75)</strong></em></div>
