@@ -40,7 +40,7 @@
     <div class="periodical"><em><strong>J Exp Clin Cancer Res.</strong>, 2024. <strong>(Q1, IF = 11.3)</strong></em></div>
     <div class="links">
     <a href="https://pubmed.ncbi.nlm.nih.gov/38664705/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
-    <a href="https://jeccr.biomedcentral.com/articles/10.1186/s13046-024-03042-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+    <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pan-cancer+analysis+implicates+novel+insights+of+lactate+metabolism+into+immunotherapy+response+prediction+and+survival+prognostication.&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
     </div>
   </div>
 </div>
