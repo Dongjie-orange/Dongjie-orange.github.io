@@ -37,7 +37,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
     <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/38664705/">Pan-cancer analysis implicates novel insights of lactate metabolism into immunotherapy response prediction and survival prognostication</a></div>
     <div class="author"><u><strong>Chen D</strong></u>*, Liu P*, Lu X, Li J, Qi D, Zang L, et al. </div>
-    <div class="periodical"><em><strong>J Exp Clin Cancer Res.</strong>, 2024. <strong>(Q1, IF = 11.3)</strong></em></div>
+    <div class="periodical"><em><strong>J Exp Clin Cancer Res.</strong>, 2024. <strong>(Q1, IF = 11.30)</strong></em></div>
     <div class="links">
     <a href="https://pubmed.ncbi.nlm.nih.gov/38664705/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
     <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pan-cancer+analysis+implicates+novel+insights+of+lactate+metabolism+into+immunotherapy+response+prediction+and+survival+prognostication.&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
@@ -105,7 +105,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
     <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/35223846/">Ferroptosis-Related IncRNAs Are Prognostic Biomarker of Overall Survival in Pancreatic Cancer Patients</a></div>
     <div class="author"><u><strong>Chen D</strong></u>*, Gao W*, Zang L, Zhang X, Li Z, Zhu H, et al.</div>
-    <div class="periodical"><em><strong>Front Cell Dev Biol.</strong>, 2022. <strong>(Q1, IF = 5.5)</strong></em></div>
+    <div class="periodical"><em><strong>Front Cell Dev Biol.</strong>, 2022. <strong>(Q1, IF = 5.50)</strong></em></div>
     <div class="links">
        <a href="https://pubmed.ncbi.nlm.nih.gov/35223846/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
     <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ferroptosis-Related+IncRNAs+Are+Prognostic+Biomarker+of+Overall+Survival+in+Pancreatic+Cancer+Patients&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
@@ -185,7 +185,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
     <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/38545193/">IGF2BP2-related modification patterns in pancreatic cancer: A machine learning-driven approach towards personalized treatment</a></div>
     <div class="author"><u><strong>Chen D</strong></u>*, Zang L*, Zhou Y, Yang Y, Zhang X, Li Z, et al.</div>
-    <div class="periodical"><em><strong>Heliyon</strong>, 2024. <strong>(Q2, IF = 4)</strong></em></div>
+    <div class="periodical"><em><strong>Heliyon</strong>, 2024. <strong>(Q2, IF = 4.00)</strong></em></div>
     <div class="links">
        <a href="https://pubmed.ncbi.nlm.nih.gov/38545193/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
     <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+IGF2BP2-related+modification+patterns+in+pancreatic+cancer%3A+A+machine+learning-driven+approach+towards+personalized+treatment.&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
