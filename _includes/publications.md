@@ -13,6 +13,28 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
+    <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/39739618/"> A Distinguished Roadmap of Fibroblast Senescence in Predicting Immunotherapy Response and Prognosis Across Human Cancers </a></div>
+    <div class="author"><u><strong>Chen D</strong></u>*, Liu P*, Lin J*, Zang L*, Liu Y, Zhai S, et al.</div>
+    <div class="periodical"><em><strong>Adv Sci (Weinh)</strong>, 2024. <strong>(Q1, IF = 14.30)</strong></em></div>
+    <div class="links">
+    <a href="ttps://pubmed.ncbi.nlm.nih.gov/39739618/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Distinguished+Roadmap+of+Fibroblast+Senescence+in+Predicting+Immunotherapy+Response+and+Prognosis+Across+Human+Cancers&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <img src="assets/img/01.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Article</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 5x;padding-left: 15px;">
     <div class="title"><a href="https://pubmed.ncbi.nlm.nih.gov/37351165/"> Comprehensive machine learning-generated classifier identifies pro-metastatic characteristics and predicts individual treatment in pancreatic cancer: A multicenter cohort study based on super-enhancer profiling</a></div>
     <div class="author"><u><strong>Chen D</strong></u>*, Cao Y*, Tang H*, Zang L, Yao N, Zhu Y, et al.</div>
     <div class="periodical"><em><strong>Theranostics</strong>, 2023. <strong>(Q1, IF = 12.40)</strong></em></div>
