@@ -17,7 +17,7 @@
     <div class="author"><u><strong>Chen D</strong></u>*, Liu P*, Lin J*, Zang L*, Liu Y, Zhai S, et al.</div>
     <div class="periodical"><em><strong>Adv Sci (Weinh)</strong>, 2024. <strong>(Q1, IF = 14.30)</strong></em></div>
     <div class="links">
-    <a href="ttps://pubmed.ncbi.nlm.nih.gov/39739618/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/39739618/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
     <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Distinguished+Roadmap+of+Fibroblast+Senescence+in+Predicting+Immunotherapy+Response+and+Prognosis+Across+Human+Cancers&btnG=" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
     </div>
   </div>
